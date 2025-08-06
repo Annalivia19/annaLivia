@@ -45,4 +45,5 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 📄 [Meu currículo](https://link-para-o-curriculo.com) 
 🔗 [LinkedIn](https://linkedin.com/in/Annalivia)
 
-> “Automatizar é transformar tarefas repetitivas em tempo para pensar.”
+> “Inovação distingue o líder de um seguidor.”
+
