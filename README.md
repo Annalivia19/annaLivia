@@ -4,7 +4,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,mysql,linux" />
   </a>
 </p>
 
