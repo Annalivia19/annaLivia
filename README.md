@@ -35,7 +35,6 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 |---------------------------|----------|----------------------------------------------------|--------|
 | **Automação PJe TRT2**    | TRT2     | Login com certificado + envio de petição automatizado | 🔒 Privado |
 | **Automação PJe TRF3**    | TRF3     | Preenchimento de dados + upload + assinatura digital | 🔒 Privado |
-| **Automação ESAJ (TJSP)** | TJSP     | Anexação de petição via script Puppeteer            | 🔒 Privado |
 
 > ⚠️ Os repositórios são privados por questões contratuais. Contudo, criei versões simuladas públicas com explicações técnicas:
 
