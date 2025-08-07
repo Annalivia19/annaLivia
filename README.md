@@ -2,6 +2,12 @@
 
 Desenvolvedora em formação com foco em automações que resolvem problemas reais. Atualmente atuo com **automação de sistemas jurídicos** como **PJe, TRF3, ESAJ e TRT2**, usando **Node.js**, **Puppeteer**, **JavaScript** e **certificado digital**.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,html,css" />
+  </a>
+</p>
+
 ## 🚀 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICID)  
