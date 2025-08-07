@@ -24,6 +24,10 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 - **Ambiente:** Linux
 - **Outros:** Git, GitHub, Certificados A3 (SafeNet, Certisign)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaLivia19&show_icons=true&theme=darkpink)
+
+
+
 
 ## 📁 Projetos de automação
 
