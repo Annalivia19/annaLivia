@@ -1,4 +1,4 @@
-## 👩‍💻 Anna Lívia
+## 🩷 Anna Lívia
 
 Desenvolvedora em formação com foco em automações que resolvem problemas reais. Atualmente atuo com **automação de sistemas jurídicos** como **PJe, TRF3, ESAJ e TRT2**, usando **Node.js**, **Puppeteer**, **JavaScript** e **certificado digital**.
 
@@ -8,11 +8,11 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
   </a>
 </p>
 
-## 🚀 Sobre mim
+## Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICID)  
-💼 Estagiária em um escritório de advocacia desde abril/2024  
-🔧 Foco atual: Automatização de processos jurídicos com Puppeteer  
+👩🏻‍💻 Estagiária em um escritório de advocacia desde abril/2024  
+⌨️ Foco atual: Automatização de processos jurídicos com Puppeteer  
 📍 São Paulo – SP
 
 ## 🛠️ Tecnologias e ferramentas
@@ -43,7 +43,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 - [`automacao-pje-trt2`](https://github.com/Annalivia19/automacaoPje-TRT2)
 - [`automacao-trf3`](https://github.com/Annalivia19/automacaoPje-TRF3)
 
-# 📚 Em constante aprendizado
+# 📖 Em constante aprendizado
 
 - Segurança da Informação (SIEM e Red Team)
 - Integração de automações com front-end (HTML/CSS/JS)
