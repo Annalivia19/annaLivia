@@ -52,7 +52,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 ## ✉️ Contato
 
 📧 annalivia946@gmail.com  
-📄 [Meu currículo](https://link-para-o-curriculo.com) 
+📄 [Meu currículo](https://drive.google.com/file/d/1Dk_JXKCvq5oh0Q3w-DwT7HjS_75VaHXY/view?usp=drivesdk) 
 🔗 [LinkedIn](https://linkedin.com/in/annalivia)
 
 > “Inovação distingue o líder de um seguidor.”
