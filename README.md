@@ -1,6 +1,4 @@
 ## 🩷 Anna Lívia
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73BEA&width=435&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o" alt="Typing SVG" /></a>
-
 Desenvolvedora em formação com foco em automações que resolvem problemas reais. Atualmente atuo com **automação de sistemas jurídicos** como **PJe, TRF3, ESAJ e TRT2**, usando **Node.js**, **Puppeteer**, **JavaScript** e **certificado digital**.
 
 <p align="center">
