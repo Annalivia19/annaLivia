@@ -57,3 +57,5 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 > “Inovação distingue o líder de um seguidor.”
 
+![snake gif](https://github.com/AnnaLivia19/AnnaLivia19/blob/output/github-contribution-grid-snake.svg)
+
