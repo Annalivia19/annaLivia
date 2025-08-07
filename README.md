@@ -41,7 +41,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 > ⚠️ Os repositórios são privados por questões contratuais. Contudo, criei versões simuladas públicas com explicações técnicas:
 
 - [`automacao-pje-trt2`](https://github.com/Annalivia19/automacaoPje-TRT2)
-- [`automacao-trf3`](https://github.com/seu-usuario/automacao-trf3)
+- [`automacao-trf3`](https://github.com/Annalivia19/automacaoPje-TRF3)
 
 # 📚 Em constante aprendizado
 
