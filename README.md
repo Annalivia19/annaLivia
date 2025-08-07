@@ -24,7 +24,9 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 - **Ambiente:** Linux
 - **Outros:** Git, GitHub, Certificados A3 (SafeNet, Certisign)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLivia19&layout=compact&theme=DarkPink)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLivia19&layout=compact&theme=dracula" />
+</p>
 
 
 
