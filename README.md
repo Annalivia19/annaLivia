@@ -31,7 +31,6 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 - [`automacao-pje-trt2`](https://github.com/seu-usuario/automacao-pje-trt2)
 - [`automacao-trf3`](https://github.com/seu-usuario/automacao-trf3)
-- [`automacao-esaj`](https://github.com/seu-usuario/automacao-esaj)
 
 # 📚 Em constante aprendizado
 
@@ -43,7 +42,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 📧 annalivia946@gmail.com  
 📄 [Meu currículo](https://link-para-o-curriculo.com) 
-🔗 [LinkedIn](https://linkedin.com/in/Annalivia)
+🔗 [LinkedIn](https://linkedin.com/in/annalivia)
 
 > “Inovação distingue o líder de um seguidor.”
 
