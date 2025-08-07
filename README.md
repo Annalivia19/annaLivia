@@ -38,7 +38,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 | **Automação PJe TRT2**    | TRT2     | Login com certificado + envio de petição automatizado | 🔒 Privado |
 | **Automação PJe TRF3**    | TRF3     | Preenchimento de dados + upload + assinatura digital | 🔒 Privado |
 
-> ⚠️ Os repositórios são privados por questões contratuais. Contudo, criei versões simuladas públicas com explicações técnicas:
+> ⚠️ Os repositórios são privados por questões contratuais. Contudo, criei uma versão simulada pública com explicações técnicas:
 
 - [`automacao-pje-trt2`](https://github.com/Annalivia19/automacaoPje-TRT2)
 - [`automacao-trf3`](https://github.com/Annalivia19/automacaoPje-TRF3)
