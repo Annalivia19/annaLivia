@@ -11,7 +11,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICID)  
 👩🏻‍💻 Estagiária em um escritório de advocacia desde abril/2024  
-⌨️ Foco atual: Automatização de processos jurídicos com Puppeteer  
+⌨️ Foco atual: Automatização de processos 
 📍 São Paulo – SP
 
 ## 🛠️ Tecnologias e ferramentas
